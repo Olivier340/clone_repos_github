@@ -30,7 +30,9 @@ Clone all public and private repositories from a GitHub user or organization.
 &nbsp;
 
 ###### Set it to executable permission with some command like:
+
 >chmod a+x GitHubUserReposList.sh
+
 >chmod a+x GitHubOrgReposList.sh
 
 ###### Then Run the script
